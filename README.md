@@ -1,11 +1,3 @@
-<div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQHa7gHdEx4WSQ/profile-displaybackgroundimage-shrink_350_1400/0/1656710705710?e=1670457600&v=beta&t=Z3ctkAlUKTG80dqNH7aqPJTjl3PCeDOLrlefWged4mQ" align="center" style="width: 100%" />
-</div>  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
